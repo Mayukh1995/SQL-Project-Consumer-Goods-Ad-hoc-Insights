@@ -34,7 +34,7 @@ SELECT
 
 unique_products_2020,
 
-unique_products_2020,
+unique_products_2021,
 
 CONCAT(ROUND(((unique_products_2021-unique_products_2020)*1.0/unique_products_2020)*100,2),'%') AS percentage_chg
 
